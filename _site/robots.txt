@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://tommydzierzak.github.io/feeling-responsive/sitemap.xml
+Sitemap: http://localhost:4000/feeling-responsive/sitemap.xml

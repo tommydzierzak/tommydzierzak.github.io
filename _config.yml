@@ -24,7 +24,7 @@ credits: '<p>Website for and by Thomas Dzierzak. Based on <a href="http://phlow.
 
 # Main author of the website
 # See > authors.yml
-author: phlow
+author: tommydzierzak
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
@@ -49,11 +49,11 @@ logo: "logo.png"
 
 
 # Paginates all X entries
-paginate: 5
+#paginate: 5
 
 
 # Pagination path › Important for blog page in /blog/ to work
-paginate_path: "blog/page:num"
+#paginate_path: "blog/page:num"
 
 
 # Theme works best with Kramdown (using the table of contents function)

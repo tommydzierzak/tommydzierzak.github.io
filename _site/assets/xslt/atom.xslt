@@ -31,11 +31,11 @@
 
 
 	<!-- Search Engine Optimization -->
-	<meta name="description" content="»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.">
-	<meta name="google-site-verification" content="Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ">
-	<meta name="msvalidate.01" content="0FB4C028ABCF07C908C54386ABD2D97F" >
+	<meta name="description" content="The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.">
 	
-	<link rel="author" href="https://plus.google.com/u/0/118311555303973066167">
+	
+	
+	
 	
 	
 	<link rel="canonical" href="http://localhost:4000/assets/xslt/atom.xslt">
@@ -43,23 +43,15 @@
 
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="Atom Feed (Styled)">
-	<meta property="og:description" content="»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.">
+	<meta property="og:description" content="The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.">
 	<meta property="og:url" content="http://localhost:4000/assets/xslt/atom.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
-	<meta property="og:site_name" content="tommydzierzak">
+	<meta property="og:site_name" content="Feeling Responsive">
 	
-	<meta property="article:author" content="https://www.facebook.com/phlow.media">
+	
 
 
-	
-	<!-- Twitter -->
-	<meta name="twitter:card" content="summary">
-	<meta name="twitter:site" content="phlow">
-	<meta name="twitter:creator" content="phlow">
-	<meta name="twitter:title" content="Atom Feed (Styled)">
-	<meta name="twitter:description" content="»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.">
-	
 	
 
 	<link type="text/plain" rel="author" href="http://localhost:4000/humans.txt">
@@ -105,7 +97,7 @@
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
-      <h1 class="show-for-small-only"><a href="http://localhost:4000" class="icon-tree"> tommydzierzak</a></h1>
+      <h1 class="show-for-small-only"><a href="http://localhost:4000" class="icon-tree"> Feeling Responsive</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar menu-icon"><a href="#"><span>Nav</span></a></li>
@@ -113,12 +105,6 @@
     <section class="top-bar-section">
 
       <ul class="right">
-        
-
-              
-
-          
-          
         
 
               
@@ -191,7 +177,7 @@
 
             
             
-              <li><a  href="http://localhost:4000/">Start</a></li>
+              <li><a  href="http://localhost:4000/">Home</a></li>
               <li class="divider"></li>
 
             
@@ -376,32 +362,6 @@
 
           
           
-
-            
-            
-
-              <li class="has-dropdown">
-                <a  href="http://localhost:4000/blog/">Blog</a>
-
-                  <ul class="dropdown">
-                    
-
-                      
-
-                      <li><a  href="http://localhost:4000/blog/archive/">Blog Archive</a></li>
-                    
-                  </ul>
-
-              </li>
-              <li class="divider"></li>
-            
-          
-        
-
-              
-
-          
-          
         
 
               
@@ -420,8 +380,8 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="http://localhost:4000/" title="tommydzierzak – Just a guy bein' a dude">
-				<img src="http://localhost:4000/assets/img/logo.png" alt="tommydzierzak – Just a guy bein' a dude">
+			<a id="logo" href="http://localhost:4000/" title="Feeling Responsive – A Flexible Theme for Jekyll">
+				<img src="http://localhost:4000/assets/img/logo.png" alt="Feeling Responsive – A Flexible Theme for Jekyll">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -498,7 +458,7 @@
             <h5 class="shadow-black">About This Site</h5>
 
             <p class="shadow-black">
-              »Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.
+              The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
               <a href="http://localhost:4000/info/">More ›</a>
             </p>
           </div><!-- /.large-6.columns -->
@@ -602,21 +562,15 @@
       <div id="subfooter">
         <nav class="row">
           <section id="subfooter-left" class="small-12 medium-6 columns credits">
-            <p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>
+            <p>Website for and by Thomas Dzierzak. Based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a> by <a href="http://phlow.de/">Phlow</a>.</p>
           </section>
 
           <section id="subfooter-right" class="small-12 medium-6 columns">
             <ul class="inline-list social-icons">
             
-              <li><a href="http://github.com/phlow" target="_blank" class="icon-github" title="Code und mehr..."></a></li>
+              <li><a href="http://github.com/tommydzierzak" target="_blank" class="icon-github" title="See what is behind this site..."></a></li>
             
-              <li><a href="http://www.youtube.com/PhlowMedia" target="_blank" class="icon-youtube" title="Videos, Video-Anleitungen und Filme von Phlow auf YouTube"></a></li>
-            
-              <li><a href="http://twitter.com/phlow" target="_blank" class="icon-twitter" title="Immer das Neuste von Phlow gibt es auf Twitter"></a></li>
-            
-              <li><a href="http://www.mixcloud.com/phlow/" target="_blank" class="icon-cloud" title="Mixe, was sonst?"></a></li>
-            
-              <li><a href="https://plus.google.com/u/0/+Phlow" target="_blank" class="icon-googleplus" title="YouTube Google+"></a></li>
+              <li><a href="http://www.linkedin.com/in/thomasdzierzak" target="_blank" class="icon-linkedin" title="Connect with me on Linkedin"></a></li>
             
             </ul>
           </section>

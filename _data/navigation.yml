@@ -27,13 +27,13 @@
     url: "/design/header-logo-only/"
 
 - title: Projects
-  url: "/documentation/"
+  url: "/projects/"
   side: left
   dropdown:
   - title: "3D Printer"
     url: "/changelog/"
   - title: "Home Assistant"
-    url: "/roadmap/"
+    url: "/hass/"
 
 - title: "Search"
   url: "/search/"

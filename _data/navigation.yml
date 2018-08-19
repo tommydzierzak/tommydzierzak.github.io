@@ -1,70 +1,39 @@
-- title: Start
+- title: Home
   url: "/"
   side: left
 
-- title: Getting Started
-  url: "/getting-started/"
-  side: left
-
-- title: "Templates"
+- title: "Work History"
   url: "/design/"
   side: left
   dropdown:
-  - title: "Grid & Colors"
+  - title: "FirstBuild"
     url: "/design/grid/"
-  - title: "Typography"
+  - title: "GE Appliances"
     url: "/design/typography/typography/"
-  - title: "Page/Post"
+  - title: "GEM Industrial"
     url: "/design/page/"
-  - title: "Post-Left-Sidebar"
-    url: "/design/post-left-sidebar/"
-  - title: "Post-Right-Sidebar"
-    url: "/design/post-right-sidebar/"
-  - title: "Page Full-Width"
-    url: "/design/page-fullwidth/"
-  - title: "Blog-Page"
-    url: "/blog/"
-  - title: "Video"
-    url: "/design/video/"
-  - title: "Gallery"
-    url: "/design/gallery/"
-  - title: "Portfolio"
-    url: "/design/portfolio/"
 
-- title: "Header Styles"
+- title: "Extracuirricular"
   url: "/headers/"
   side: left
   dropdown:
-  - title: "Header with Full-Width-Image"
+  - title: "CEAS Ambassadors"
     url: "/design/header-full-width-image/"
-  - title: "Header with Image and Pattern"
+  - title: "Triangle Fraternaty"
     url: "/design/header-image-pattern/"
-  - title: "Header with image and color"
+  - title: "Enable UC"
     url: "/design/header-image-color/"
-  - title: "Header Only With Logo"
+  - title: "Engineering Diplomats"
     url: "/design/header-logo-only/"
-  - title: "Header With Text"
-    url: "/design/header-with-text/"
-  - title: "No Header"
-    url: "/design/no-header/"
-  - title: "No Header but Image"
-    url: "/design/no-header-but-image/"
 
-- title: Documentation
-  url: "/documentation/"
+- title: Projects
+  url: "/projects/"
   side: left
   dropdown:
-  - title: "Changelog"
+  - title: "3D Printer"
     url: "/changelog/"
-  - title: "Roadmap"
-    url: "/roadmap/"
-
-- title: Blog
-  url: "/blog/"
-  side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
+  - title: "Home Assistant"
+    url: "/hass/"
 
 - title: "Search"
   url: "/search/"

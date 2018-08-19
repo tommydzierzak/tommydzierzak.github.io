@@ -1,12 +1,17 @@
 ---
 layout: page
-title: "Contact"
-meta_title: "Contact and use our contact form"
-subheadline: "Wufoo-powered contact forms"
-teaser: "Get in touch with me? Use the contact form."
+title: "Contact me"
+#meta_title: "Contact and use our contact form"
+#subheadline: "Wufoo-powered contact forms"
+teaser: "Thomas Dzierzak"
 permalink: "/contact/"
 ---
-If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
+Phone: (419) 601-4557
+
+Email: [dzierztj@mail.uc.edu][1]
+
+[Resume][2]
 
 
- [1]: http://www.wufoo.com/
+[1]: mailto:dzierztj@mail.uc.edu
+[2]: https://uc.box.com/s/m2cf7tssgwgid4g2248tag1k48tngz9c 

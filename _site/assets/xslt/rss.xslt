@@ -31,7 +31,7 @@
 
 
 	<!-- Search Engine Optimization -->
-	<meta name="description" content="I am a 4th year Mechanical Engineering student and am also pursuing my MBA. I love">
+	<meta name="description" content="I am a 4th year Mechanical Engineering student and am also pursuing my MBA. I love making, creating, and learning new things.">
 	<meta name="google-site-verification" content="Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ">
 	<meta name="msvalidate.01" content="0FB4C028ABCF07C908C54386ABD2D97F" >
 	
@@ -43,7 +43,7 @@
 
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="RSS Feed (Styled)">
-	<meta property="og:description" content="I am a 4th year Mechanical Engineering student and am also pursuing my MBA. I love">
+	<meta property="og:description" content="I am a 4th year Mechanical Engineering student and am also pursuing my MBA. I love making, creating, and learning new things.">
 	<meta property="og:url" content="http://localhost:4000/assets/xslt/rss.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
@@ -58,7 +58,7 @@
 	<meta name="twitter:site" content="phlow">
 	<meta name="twitter:creator" content="phlow">
 	<meta name="twitter:title" content="RSS Feed (Styled)">
-	<meta name="twitter:description" content="I am a 4th year Mechanical Engineering student and am also pursuing my MBA. I love">
+	<meta name="twitter:description" content="I am a 4th year Mechanical Engineering student and am also pursuing my MBA. I love making, creating, and learning new things.">
 	
 	
 
@@ -395,7 +395,7 @@
             <h5 class="shadow-black">About This Site</h5>
 
             <p class="shadow-black">
-              I am a 4th year Mechanical Engineering student and am also pursuing my MBA. I love 
+              I am a 4th year Mechanical Engineering student and am also pursuing my MBA. I love making, creating, and learning new things.
               <a href="http://localhost:4000/info/">More ›</a>
             </p>
           </div><!-- /.large-6.columns -->
@@ -499,7 +499,7 @@
       <div id="subfooter">
         <nav class="row">
           <section id="subfooter-left" class="small-12 medium-6 columns credits">
-            <p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>
+            <p>Created with &hearts; for and by Thomas Dzierzak with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>
           </section>
 
           <section id="subfooter-right" class="small-12 medium-6 columns">

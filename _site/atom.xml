@@ -4,16 +4,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000/</id>
 	<title>Thomas Dzierzak</title>
-	<updated>2018-08-19T19:33:04-04:00</updated>
+	<updated>2018-08-26T15:22:38-04:00</updated>
 
-	<subtitle>»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.</subtitle>
+	<subtitle>I am a 4th year Mechanical Engineering student and am also pursuing my MBA. I love </subtitle>
 
 	
 		
 		<author>
 			
-				<name>phlow</name>
+				<name>Thomas Dzierzak</name>
 			
+			
+				<email>dzierztj@mail.uc.edu</email>
 			
 			
 		</author>

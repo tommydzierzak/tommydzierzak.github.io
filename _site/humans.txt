@@ -1,8 +1,7 @@
 /* TEAM */
 
-Name: Phlow
-Site: http://phlow.de/
-Twitter: @phlow
+Name: Tommy Dzierzak
+Site: http://thomasdzierzak.me
 
 
 /* THANKS */

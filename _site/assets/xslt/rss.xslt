@@ -27,7 +27,7 @@
 
   
 	
-	<meta name="description" content="The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes." />
+	<meta name="description" content="I am a 4th year Mechanical Engineering student and am also pursuing my MBA. I love making, creating, and learning new things." />
 
 	
 
@@ -110,7 +110,7 @@
 	<meta property="og:locale" content="en_EN" />
 	
 	<meta property="og:title" content="RSS Feed (Styled)" />
-	<meta property="og:description" content="The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes." />
+	<meta property="og:description" content="I am a 4th year Mechanical Engineering student and am also pursuing my MBA. I love making, creating, and learning new things." />
 	<meta property="og:url" content="http://localhost:4000//assets/xslt/rss.xslt" />
 	<meta property="og:site_name" content="Thomas Dzierzak" />
 	
@@ -396,7 +396,7 @@
             <h5 class="shadow-black">About This Site</h5>
 
             <p class="shadow-black">
-              The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
+              I am a 4th year Mechanical Engineering student and am also pursuing my MBA. I love making, creating, and learning new things.
               <a href="http://localhost:4000/info/">More ›</a>
             </p>
           </div><!-- /.large-6.columns -->

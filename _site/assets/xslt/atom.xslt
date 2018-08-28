@@ -416,7 +416,7 @@
             
               
             
-              
+
               <ul class="no-bullet shadow-black">
               
                 
@@ -462,7 +462,7 @@
             
               
             
-              
+
             <ul class="no-bullet shadow-black">
             
               
@@ -500,11 +500,13 @@
       <div id="subfooter">
         <nav class="row">
           <section id="subfooter-left" class="b30 small-12 medium-6 columns credits">
+<!--
             <p>
               Leave some &hearts;
               for&nbsp;
               <a href="http://phlow.de" alt="Theme created by Phlow">Phlow</a>
             </p>
+          -->
           </section>
 
           <section id="subfooter-right" class="small-12 medium-6 columns social-icons">

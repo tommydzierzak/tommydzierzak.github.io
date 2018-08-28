@@ -37,7 +37,7 @@ improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://tommydzierzak.github.io/images/'
+urlimg: 'https://thomasdzierzak.me/images/'
 
 
 # Logo size is 600x80 pixels
@@ -111,7 +111,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for posts
+      author: tommydzierzak     # Default author for posts
 
 
 

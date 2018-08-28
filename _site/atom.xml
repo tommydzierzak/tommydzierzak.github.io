@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000/</id>
 	<title>Thomas Dzierzak</title>
-	<updated>2018-08-28T11:42:33-04:00</updated>
+	<updated>2018-08-28T11:49:54-04:00</updated>
 
 	<subtitle>I am a 4th year Mechanical Engineering student and am also pursuing my MBA. I love making, creating, and learning new things.</subtitle>
 
@@ -39,9 +39,13 @@
 				
 				<author>
 					
-						<name>phlow</name>
+						<name>Tommy Dzierzak</name>
 					
 					
+						<email>dzierzakt@gmail.com</email>
+					
+					
+						<uri>http://thomasdzierzak.me</uri>
 					
 				</author>
 			
@@ -68,9 +72,13 @@
 				
 				<author>
 					
-						<name>phlow</name>
+						<name>Tommy Dzierzak</name>
 					
 					
+						<email>dzierzakt@gmail.com</email>
+					
+					
+						<uri>http://thomasdzierzak.me</uri>
 					
 				</author>
 			
@@ -97,9 +105,13 @@
 				
 				<author>
 					
-						<name>phlow</name>
+						<name>Tommy Dzierzak</name>
 					
 					
+						<email>dzierzakt@gmail.com</email>
+					
+					
+						<uri>http://thomasdzierzak.me</uri>
 					
 				</author>
 			
@@ -126,9 +138,13 @@
 				
 				<author>
 					
-						<name>phlow</name>
+						<name>Tommy Dzierzak</name>
 					
 					
+						<email>dzierzakt@gmail.com</email>
+					
+					
+						<uri>http://thomasdzierzak.me</uri>
 					
 				</author>
 			
@@ -155,9 +171,13 @@
 				
 				<author>
 					
-						<name>phlow</name>
+						<name>Tommy Dzierzak</name>
 					
 					
+						<email>dzierzakt@gmail.com</email>
+					
+					
+						<uri>http://thomasdzierzak.me</uri>
 					
 				</author>
 			

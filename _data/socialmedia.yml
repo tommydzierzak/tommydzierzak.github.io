@@ -1,32 +1,22 @@
 - name: GitHub
-  url: http://github.com/tommydzierzak
+  url: http://github.com/
   class: icon-github
-  title: See what is behind this site...
+  title: ""
 
-- name: Linkedin
-  url: http://www.linkedin.com/in/thomasdzierzak
-  class: icon-linkedin
-  title: Connect with me on Linkedin
+- name: YouTube
+  url: http://www.youtube.com/
+  class: icon-youtube
+  title: ""
 
-#- name: YouTube
-#  url: http://www.youtube.com/PhlowMedia
-#  class: icon-youtube
-#  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
+- name: Twitter
+  url: http://twitter.com/
+  class: icon-twitter
+  title: ""
 
-#- name: Twitter
-#  url: http://twitter.com/phlow
-#  class: icon-twitter
-#  title: "Immer das Neuste von Phlow gibt es auf Twitter"
-
-#- name: Mixcloud
-#  url: http://www.mixcloud.com/phlow/
-#  class: icon-cloud
-#  title: "Mixe, was sonst?"
-
-#- name: Phlow YouTube Google+
-#  url: https://plus.google.com/u/0/+Phlow
-#  class: icon-googleplus
-#  title: "YouTube Google+"
+# - name: Mixcloud
+#   url: http://www.mixcloud.com/
+#   class: icon-cloud
+#   title: ""
 
 # - name: Facebook
 #   url: http://www.facebook.com/

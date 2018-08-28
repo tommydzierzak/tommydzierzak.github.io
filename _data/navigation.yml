@@ -1,39 +1,34 @@
-- title: Home
+#
+#   Navigation to the left › side: left
+#
+- title: Start
   url: "/"
   side: left
 
-- title: "Work History"
-  url: "/design/"
+- title: "Dropdown Menu"
+  url: "#"
   side: left
   dropdown:
-  - title: "FirstBuild"
-    url: "/design/grid/"
-  - title: "GE Appliances"
-    url: "/design/typography/typography/"
-  - title: "GEM Industrial"
-    url: "/design/page/"
+  - title: "Dropdown Menu 1"
+    url: "#"
+  - title: "Dropdown Menu 2"
+    url: "#"
+  - title: "Dropdown Menu 3"
+    url: "#"
 
-- title: "Extracuirricular"
-  url: "/headers/"
+- title: Blog
+  url: "/blog/"
   side: left
   dropdown:
-  - title: "CEAS Ambassadors"
-    url: "/design/header-full-width-image/"
-  - title: "Triangle Fraternaty"
-    url: "/design/header-image-pattern/"
-  - title: "Enable UC"
-    url: "/design/header-image-color/"
-  - title: "Engineering Diplomats"
-    url: "/design/header-logo-only/"
+  - title: "Blog Archive"
+    url: "/blog/archive/"
 
-- title: Projects
-  url: "/projects/"
-  side: left
-  dropdown:
-  - title: "3D Printer"
-    url: "/changelog/"
-  - title: "Home Assistant"
-    url: "/hass/"
+#
+#   Navigation to the right › side: right
+#
+- title: "Info"
+  url: "/info/"
+  side: right
 
 - title: "Search"
   url: "/search/"

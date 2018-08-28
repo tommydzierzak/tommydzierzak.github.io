@@ -317,8 +317,8 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="http://localhost:4000/" title="Thomas Dzierzak – Mechanical Engineering Student & Maker">
-				<img src="http://localhost:4000/assets/img/logo.png" alt="Thomas Dzierzak – Mechanical Engineering Student & Maker">
+			<a id="logo" href="http://localhost:4000/" title="Thomas Dzierzak – Mechanical Engineering Student">
+				<img src="http://localhost:4000/assets/img/logo.png" alt="Thomas Dzierzak – Mechanical Engineering Student">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->

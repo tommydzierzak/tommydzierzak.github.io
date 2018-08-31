@@ -5,7 +5,7 @@ email: dzierzakt@gmail.com
 description: I am a 4th year Mechanical Engineering student and am also pursuing my MBA. I love making, creating, and learning new things.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: tommydzierzak.github.io # the base hostname & protocol for your site
-author:
+author: Thomas Dzierzak
 street_address: 1234 Somewhere Road
 city: Nashville
 state: TN

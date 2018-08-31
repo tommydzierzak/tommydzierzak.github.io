@@ -6,14 +6,14 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: you-can-delete-me-header.png
+  image_fullwidth: campus.jpg
 widget1:
-  title: "Widget 1"
+  title: "Thomas Dzierzak"
   url: 'http://domain.de/must-be-absolut-url-like-this-one/'
-  image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
-  text: ''
+  image: 'profile.jpg'
+  text: 'About me'
 widget2:
-  title: "Widget 2"
+  title: "Me"
   url: 'http://domain.de/must-be-absolut-url-like-this-one/'
   image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
   text: ''
@@ -34,7 +34,7 @@ widget3:
 #
 callforaction:
   url: https://tinyletter.com/feeling-responsive
-  text: Inform me about new updates and features ›
+  text: Learn about me ›
   style: alert
 permalink: /index.html
 ---

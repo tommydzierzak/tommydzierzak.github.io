@@ -1,17 +1,28 @@
 - name: GitHub
-  url: http://github.com/
+  url: http://github.com/tommydzierzak
   class: icon-github
-  title: ""
+  title: See what is behind this site...
 
-- name: YouTube
-  url: http://www.youtube.com/
-  class: icon-youtube
-  title: ""
+- name: Linkedin
+  url: http://www.linkedin.com/in/thomasdzierzak
+  class: icon-linkedin
+  title: Connect with me on Linkedin
 
-- name: Twitter
-  url: http://twitter.com/
-  class: icon-twitter
-  title: ""
+
+#- name: GitHub
+#  url: http://github.com/
+#  class: icon-github
+#  title: ""
+
+#- name: YouTube
+#  url: http://www.youtube.com/
+#  class: icon-youtube
+#  title: ""
+
+#- name: Twitter
+#  url: http://twitter.com/
+#  class: icon-twitter
+#  title: ""
 
 # - name: Mixcloud
 #   url: http://www.mixcloud.com/

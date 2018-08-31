@@ -11,7 +11,7 @@ header:
 widget1:
   title: "Thomas Dzierzak"
   url: 'http://domain.de/must-be-absolut-url-like-this-one/'
-  image: profile.png
+  image: 'http://tommydzierzak.github.io/images/profile.png'
   text: 'About me'
 widget2:
   title: "Me"

@@ -5,17 +5,18 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
+
 header:
   image_fullwidth: campus.jpg
 widget1:
   title: "Thomas Dzierzak"
   url: 'http://domain.de/must-be-absolut-url-like-this-one/'
-  image: 'profile.jpg'
+  image: profile.jpg
   text: 'About me'
 widget2:
   title: "Me"
   url: 'http://domain.de/must-be-absolut-url-like-this-one/'
-  image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
+  image: profile.jpg
   text: ''
 widget3:
   title: "Widget 3"

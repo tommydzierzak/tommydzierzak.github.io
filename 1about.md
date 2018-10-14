@@ -10,4 +10,4 @@ I am currently a 4th year Mechanical Engineering & ACCEND student at the Univers
 
 I am very passionate about making and creating. I aspire to engineer and develop projects and products that will empower people and make the world a little less frustrating. I admire services like Github and Thingiverse that allow people to collaborate, create, and share. These services allow laypeople to see what others are doing, try it themselves, and eventually learn it for themselves.
 
-If you would like to get in contact with me or learn more about me, feel free shoot me and <a href="mailto:dzierzakt@gmail.com">email</a> or check out my <a href="https://uc.box.com/s/m2cf7tssgwgid4g2248tag1k48tngz9c"> resume</a> or my <a href="https://uc.box.com/s/qje0m1xwnbjl94avt160irgoqtzy34nq">Lebenslaf</a>
+If you would like to get in contact with me or learn more about me, feel free shoot me an <a href="mailto:dzierzakt@gmail.com">email</a>, check out my <a href="https://uc.box.com/s/m2cf7tssgwgid4g2248tag1k48tngz9c"> resume</a> or my <a href="https://uc.box.com/s/qje0m1xwnbjl94avt160irgoqtzy34nq">Lebenslaf</a>

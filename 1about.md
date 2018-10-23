@@ -2,7 +2,7 @@
 layout: post
 title: About me
 description: Learn about me
-image: assets/images/me.jpg
+image: assets/images/me&raz.jpg
 nav-menu: true
 ---
 

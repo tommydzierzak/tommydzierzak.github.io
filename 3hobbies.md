@@ -24,7 +24,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="/2018/05/20/vibrations.html" class="image">
-			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
+			<img src="assets/images/printer.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">

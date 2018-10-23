@@ -29,9 +29,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Vibrations</h3>
+					<h3>Home Built 3D-Printer</h3>
 				</header>
-				<p>Mechanical/ Electrical System Modeling.</p>
+				<p>Ever since my first 3D design class I wanted to get into 3D printed. After not being able to find a 3D printer to use I decided to build my own.</p>
 				<ul class="actions">
 					<li><a href="/2018/05/20/vibrations.html" class="button">Check it out</a></li>
 				</ul>

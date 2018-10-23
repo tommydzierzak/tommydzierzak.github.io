@@ -40,7 +40,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="/2018/05/20/numtech.html" class="image">
-			<img src="assets/images/HA.jpg" alt="" data-position="top center" />
+			<img src="assets/images/HA.png" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">

@@ -40,16 +40,16 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="/2018/05/20/numtech.html" class="image">
-			<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
+			<img src="assets/images/HA.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Numerical Techniques</h3>
+					<h3>Home Assistant</h3>
 				</header>
-				<p>Facial recognition using the Eigenface method.</p>
+				<p>Home Automation using Raspberry Pi.</p>
 				<ul class="actions">
-					<li><a href="/2018/05/20/numtech.html" class="button">Check it out</a></li>
+					<li><a href="/2018/05/20/HA.html" class="button">Check it out</a></li>
 				</ul>
 			</div>
 		</div>

@@ -2,7 +2,7 @@
 title: Work
 layout: page
 description: 'Previous Employers'
-image: assets/images/water_cooler.JPG
+image: assets/images/water_cooler.jpg
 nav-menu: true
 ---
 

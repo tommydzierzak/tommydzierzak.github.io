@@ -13,7 +13,7 @@
 	<link rel="stylesheet" href="assets/css/main.css" />
 	<noscript>
 		<link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
-	<link rel="shortcut icon" type="image/png" href="favicon.png">
+			<link rel="shortcut icon" type="image/png" href="favicon.png">
 </head>
 
 <body class="is-preload">
@@ -22,13 +22,13 @@
 	<div id="wrapper">
 
 		<!-- Header -->
-		<header id="header" class="alt">
+		<!-- Note: The "styleN" class below should match that of the banner element. -->
+		<header id="header" class="alt style2">
 			<a href="index.html" class="logo"><strong>Thomas Dzierzak</strong> <span>Student, Engineer, Innovator</span></a>
 			<nav>
 				<a href="#menu">Menu</a>
 			</nav>
 		</header>
-
 
 		<!-- Menu -->
 		<nav id="menu">
@@ -43,18 +43,17 @@
 		</nav>
 
 		<!-- Banner -->
-		<section id="banner" class="major">
+		<!-- Note: The "styleN" class below should match that of the header element. -->
+		<section id="banner" class="style2">
 			<div class="inner">
+				<span class="image">
+					<img src="images/campus.jpg" alt="" />
+				</span>
 				<header class="major">
-					<h1>Hi, my name Tommy</h1>
+					<h1>Schoolwork</h1>
 				</header>
 				<div class="content">
-					<p>I am a 4th year mechanical engineering student and am also pursuing my MBA. I love making, creating, and learning new things.</p>
-					<!--
-					<ul class="actions">
-						<li><a href="#one" class="button next scrolly">Get Started</a></li>
-					</ul>
-				-->
+					<p>Notable projects I've worked on</p>
 				</div>
 			</div>
 		</section>
@@ -63,68 +62,76 @@
 		<div id="main">
 
 			<!-- One -->
-			<section id="one" class="tiles">
-				<article>
-					<span class="image">
-						<img src="images/me&raz.jpg" alt="" />
-					</span>
-					<header class="major">
-						<h3><a href="about.html" class="link">About me</a></h3>
-						<p>Learn about me</p>
-					</header>
-				</article>
-				<article>
-					<span class="image">
-						<img src="images/books.jpg" alt="" />
-					</span>
-					<header class="major">
-						<h3><a href="schoolwork.html" class="link">Schoolwork</a></h3>
-						<p>Notable projects I've worked on</p>
-					</header>
-				</article>
-				<article>
-					<span class="image">
-						<img src="images/campus.jpg" alt="" />
-					</span>
-					<header class="major">
-						<h3><a href="hobbies.html" class="link">Hobbies</a></h3>
-						<p>Things that get me excited</p>
-					</header>
-				</article>
-				<article>
-					<span class="image">
-						<img src="images/campus.jpg" alt="" />
-					</span>
-					<header class="major">
-						<h3><a href="extracurriculars.html" class="link">Extracurriculars</a></h3>
-						<p>Involvements</p>
-					</header>
-				</article>
-				<article>
-					<span class="image">
-						<img src="images/water_cooler.jpg" alt="" />
-					</span>
-					<header class="major">
-						<h3><a href="work.html" class="link">Work</a></h3>
-						<p>Previous Employers</p>
-					</header>
-				</article>
-				<!--
-				<article>
-					<span class="image">
-						<img src="images/pic06.jpg" alt="" />
-					</span>
-					<header class="major">
-						<h3><a href="landing.html" class="link">Etiam</a></h3>
-						<p>Feugiat amet tempus</p>
-					</header>
-				</article>
-			-->
-			</section>
-
-			<!-- Two -->
 			<!--
-			<section id="two">
+			<section id="one">
+				<div class="inner">
+					<header class="major">
+						<h2>Sed amet aliquam</h2>
+					</header>
+					<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt.
+						Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+				</div>
+			</section>
+-->
+			<!-- Two -->
+			<section id="two" class="spotlights">
+				<section>
+					<a href="generic.html" class="image">
+						<img src="images/vibes.png" alt="" data-position="center center" />
+					</a>
+					<div class="content">
+						<div class="inner">
+							<header class="major">
+								<h3>Vibrations</h3>
+							</header>
+							<p>Mechanical and electronic system modeling.</p>
+							<ul class="actions">
+								<li><a href="generic.html" class="button">Check it out</a></li>
+							</ul>
+						</div>
+					</div>
+				</section>
+				<section>
+					<a href="generic.html" class="image">
+						<img src="images/eigenface.png" alt="" data-position="top center" />
+					</a>
+					<div class="content">
+						<div class="inner">
+							<header class="major">
+								<h3>Numerical Techniques</h3>
+							</header>
+							<p>Facial recognition using the eigenface method.</p>
+							<ul class="actions">
+								<li><a href="generic.html" class="button">Check it out</a></li>
+							</ul>
+						</div>
+					</div>
+				</section>
+			</div>
+
+				<!--
+				<section>
+					<a href="generic.html" class="image">
+						<img src="images/pic10.jpg" alt="" data-position="25% 25%" />
+					</a>
+					<div class="content">
+						<div class="inner">
+							<header class="major">
+								<h3>Sed nunc ligula</h3>
+							</header>
+							<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat
+								tincidunt. Vivamus et sagittis tempus.</p>
+							<ul class="actions">
+								<li><a href="generic.html" class="button">Learn more</a></li>
+							</ul>
+						</div>
+					</div>
+				</section>
+			</section>
+-->
+			<!-- Three -->
+			<!--
+			<section id="three">
 				<div class="inner">
 					<header class="major">
 						<h2>Massa libero</h2>
@@ -132,14 +139,14 @@
 					<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem
 						ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
 					<ul class="actions">
-						<li><a href="landing.html" class="button next">Get Started</a></li>
+						<li><a href="generic.html" class="button next">Get Started</a></li>
 					</ul>
 				</div>
 			</section>
--->
+
 		</div>
 
-
+-->
 		<!-- Footer -->
 		<footer id="footer">
 			<div class="inner">
@@ -164,6 +171,7 @@
 
 	</div>
 
+	</div>
 
 	<!-- Scripts -->
 	<script src="assets/js/jquery.min.js"></script>

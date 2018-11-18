@@ -15,7 +15,6 @@
 	<noscript>
 		<link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
 	<link rel="shortcut icon" type="image/png" href="favicon.png">
-	<script src="https://code.jquery.com/jquery-1.10.2.js"></script>
 </head>
 
 <body class="is-preload">
@@ -23,17 +22,9 @@
 	<!-- Wrapper -->
 	<div id="wrapper">
 
-		<div id="nav-placeholder">
+		<?php include('header.php'); ?>
 
-		</div>
-
-		<script>
-		$(function(){
-		  $("#nav-placeholder").load("header.html");
-		});
-		</script>
-
-<!-- #include file="header.shtml" -->
+		<!-- #include file="header.shtml" -->
 		<!-- Header
 		<header id="header" class="alt">
 			<a href="index.html" class="logo"><strong>Thomas Dzierzak</strong> <span>Student, Engineer, Innovator</span></a>

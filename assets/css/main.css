@@ -2161,6 +2161,7 @@ input, select, textarea {
 			float: left;
 			margin: 0 1.5em 1.25em 0;
 			top: 0.25em;
+			overflow: auto;
 		}
 
 		.image.right {
